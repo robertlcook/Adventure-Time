@@ -31,7 +31,7 @@ def begin():
               ────────▀█████████▀▀█████████▀────────
               ──────────▀███▀────────▀███▀──────────''')
 begin()
-start = input("Do you want to play a game to feed the dog?\n    (Y/N)  ").lower()
+start = input("Do you want to play a game to feed the dog?    \n(Y/N)  ").lower()
 if start == "y":
   print('''WooHoo, let's play\n
             ─────────────────────────────▄██▄
